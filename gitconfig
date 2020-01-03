@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = Ferrao
-	name = Tiago
+	email = tiago.ferrao@gmail.com
+	name = Tiago Ferrao
