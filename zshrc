@@ -70,3 +70,7 @@ export EDITOR=code
 
 # Set ipdb as the default Python debugger
 export PYTHONBREAKPOINT=ipdb.set_trace
+export PATH="$HOME/.local/bin:$PATH"
+
+alias outlook='open -a "Microsoft Outlook"'
+alias excel='open -a "Microsoft Excel"'
